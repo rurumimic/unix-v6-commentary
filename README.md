@@ -18,7 +18,6 @@
 - [Computer Simulation and History](http://simh.trailing-edge.com): 옛날 프로세서 에뮬레이션 프로젝트
 - [Lions' Commentary on UNIX 読書会(독서회)](https://sites.google.com/site/lionscommentaryonunixreading/home)
 - Wikipedia: [PDP-11](https://en.wikipedia.org/wiki/PDP-11)
-
 - [The UNIX Time-Sharing System - People @ EECS at UC Berkeley](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf) / Dennis M. Ritchie and Ken Thompson: 초창기 UNIX 개요
 - [UNIX Implementation](https://users.soe.ucsc.edu/~sbrandt/221/Papers/History/thompson-bstj78.pdf) / Ken Thompson: 초창기 UNIX 해설서
 - [SETTING UP UNIX - Sixth Edition](https://minnie.tuhs.org/PUPS/Setup/v6_setup.html): 환경 구축, 부팅 방법
