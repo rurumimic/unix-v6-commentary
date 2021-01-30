@@ -1,11 +1,25 @@
-# unix-v6-commentary
+# Unix V6 Commentary
 
- UNIX V6에 대한 나의 주석
+UNIX V6 주석
 
-## UNIX V6 소스 코드
+## UNIX V6 Source
 
 - [Research Sixth Edition Unix](https://minnie.tuhs.org/cgi-bin/utree.pl?file=V6): 1975-05
 - [dspinellis/unix-history-repo: Research V6](https://github.com/dspinellis/unix-history-repo/tree/Research-V6)
+
+---
+
+## Simulation
+
+- [SimH](http://simh.trailing-edge.com/): History Simulator
+  - [github](https://github.com/simh/simh)
+  - [Win32-Development-Binaries](https://github.com/simh/Win32-Development-Binaries)
+- [Installing Unix v6 (PDP-11) on SIMH](https://gunkies.org/wiki/Installing_Unix_v6_(PDP-11)_on_SIMH)
+- Unix v6 tape: [Unix-v6-Ken-Wellsch.tap](https://sourceforge.net/projects/bsd42/)
+
+![](images/unixv6.png)
+
+---
 
 ## 참고 문서
 
