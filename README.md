@@ -14,6 +14,7 @@ UNIX V6 주석
 - [SimH](http://simh.trailing-edge.com/): History Simulator
   - [github](https://github.com/simh/simh)
   - [Win32-Development-Binaries](https://github.com/simh/Win32-Development-Binaries)
+  - [How to build SimH](build.simh.md)
 - [Installing Unix v6 (PDP-11) on SIMH](https://gunkies.org/wiki/Installing_Unix_v6_(PDP-11)_on_SIMH)
 - Unix v6 tape: [Unix-v6-Ken-Wellsch.tap](https://sourceforge.net/projects/bsd42/)
 
