@@ -9,5 +9,12 @@ sudo apt-get install gcc libpcap-dev libvdeplug-dev libpcre3-dev libedit-dev lib
 ```
 
 ```bash
-make all
+make pdp11
+# make all
+```
+
+```bash
+ls BIN
+
+buildtools  pdp11
 ```
