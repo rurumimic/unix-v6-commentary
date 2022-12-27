@@ -15,9 +15,16 @@ UNIX V6 주석
   - [github](https://github.com/simh/simh)
   - [Win32-Development-Binaries](https://github.com/simh/Win32-Development-Binaries)
   - FAQ: [pdf](http://simh.trailing-edge.com/pdf/simh_faq.pdf)
-  - [How to build SimH](build.simh.md)
 - [Installing Unix v6 (PDP-11) on SIMH](https://gunkies.org/wiki/Installing_Unix_v6_(PDP-11)_on_SIMH)
 - Unix v6 tape: [Unix-v6-Ken-Wellsch.tap](https://sourceforge.net/projects/bsd42/)
+- /Archive/Distributions/[Research](https://www.tuhs.org/Archive/Distributions/Research/)
+
+### Example
+
+1. [Build SimH](docs/build.simh.md): PDP-11
+2. [Install Unix v6](docs/install.unix.v6.md) on PDP-11
+3. [Run Unix v6 on PDP-11](run.unix.v6.md)
+4. [Games](docs/games.md): black jack, tic-tac-toe
 
 ![](images/unixv6.png)
 
