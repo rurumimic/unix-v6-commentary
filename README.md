@@ -23,7 +23,7 @@ UNIX V6 주석
 
 1. [Build SimH](docs/build.simh.md): PDP-11
 2. [Install Unix v6](docs/install.unix.v6.md) on PDP-11
-3. [Run Unix v6 on PDP-11](run.unix.v6.md)
+3. [Run Unix v6](docs/run.unix.v6.md) on PDP-11
 4. [Games](docs/games.md): black jack, tic-tac-toe
 
 ![](images/unixv6.png)
