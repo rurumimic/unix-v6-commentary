@@ -810,8 +810,8 @@ cret:
 	mov	(sp)+,r5
 	rts	pc
 
-.globl	_u /* 커널에서 실행 프로세스 user 구조체 접근 경로 */
-_u	= 140000
+.globl	_u     /* 커널에서 실행 프로세스 user 구조체 접근 경로 */
+_u	= 140000   /* user 구조체 위치 = 데이터 세그먼트 시작 위치 = Kernel APR[6] = proc.p_addr */
 usize	= 16.
 
 PS	= 177776

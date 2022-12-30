@@ -19,11 +19,11 @@ struct	proc
 	int	p_ttyp;		/* controlling tty */
 	int	p_pid;		/* unique process id */
 	int	p_ppid;		/* process id of parent */
-	int	p_addr;		/* address of swappable image */
-	int	p_size;		/* size of swappable image (*64 bytes) */
+	int	p_addr;		/* 데이터 세그먼트의 물리 주소. address of swappable image */
+	int	p_size;		/* 데이터 세그먼트의 크기. size of swappable image (*64 bytes) */
 	int	p_wchan;	/* event process is awaiting */
 	int	*p_textp;	/* pointer to text structure */
-} proc[NPROC]; /* NPROC: /usr/sys/param.h */
+} proc[NPROC];  /* /usr/sys/param.h L18 */
 
 /* stat codes */
 #define	SSLEEP	1		/* sleeping on high priority */

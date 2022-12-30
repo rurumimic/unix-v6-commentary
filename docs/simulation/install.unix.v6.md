@@ -95,7 +95,7 @@ q
 
 #### Results
 
-![](../images/install/bootdisk.png)
+![](/images/install/bootdisk.png)
 
 ```bash
 tree -Fh labs
@@ -212,7 +212,7 @@ ls -l /unix
 -rwxrwxrwx  1 root    30346 Oct 10 12:35 /unix
 ```
 
-![](../images/install/build.kernel.png)
+![](/images/install/build.kernel.png)
 
 #### Building device files
 
@@ -297,7 +297,7 @@ cp a.out /bin/df
 rm a.out
 ```
 
-![](../images/install/rebuild.df.png)
+![](/images/install/rebuild.df.png)
 
 #### Check filesystems
 
@@ -310,7 +310,7 @@ icheck /dev/rrk2
 dcheck /dev/rrk2
 ```
 
-![](../images/install/check.filesystems.png)
+![](/images/install/check.filesystems.png)
 
 #### Enable multiser
 
@@ -321,7 +321,7 @@ w
 q
 ```
 
-![](../images/install/multiser.png)
+![](/images/install/multiser.png)
 
 #### Reboot
 
@@ -338,4 +338,4 @@ Stop: `CTRL` + `E`
 q
 ```
 
-![](../images/install/reboot.png)
+![](/images/install/reboot.png)

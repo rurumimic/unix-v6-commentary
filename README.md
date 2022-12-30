@@ -2,10 +2,20 @@
 
 UNIX V6 주석
 
+1. [Unix V6](docs/01.unixv6.md)
+2. [process](docs/02.process.md)
+
+---
+
 ## UNIX V6 Source
 
 - [Research Sixth Edition Unix](https://minnie.tuhs.org/cgi-bin/utree.pl?file=V6): 1975-05
 - [dspinellis/unix-history-repo: Research V6](https://github.com/dspinellis/unix-history-repo/tree/Research-V6)
+
+
+```bash
+git clone -b Research-V6 https://github.com/dspinellis/unix-history-repo.git research-v6
+```
 
 ---
 
@@ -22,10 +32,10 @@ UNIX V6 주석
 
 ### Example
 
-1. [Build SimH](docs/build.simh.md): PDP-11
-2. [Install Unix v6](docs/install.unix.v6.md) on PDP-11
-3. [Run Unix v6](docs/run.unix.v6.md) on PDP-11
-4. [Games](docs/games.md): black jack, tic-tac-toe
+1. [Build SimH](docs/simulation/build.simh.md): PDP-11
+2. [Install Unix v6](docs/simulation/install.unix.v6.md) on PDP-11
+3. [Run Unix v6](docs/simulation/run.unix.v6.md) on PDP-11
+4. [Games](docs/simulation/games.md): black jack, tic-tac-toe
 
 ![](images/unixv6.png)
 

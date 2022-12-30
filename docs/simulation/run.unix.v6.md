@@ -40,7 +40,7 @@ att dci 5555
 boot rk0
 ```
 
-![](../images/install/bootloader.png)
+![](/images/install/bootloader.png)
 
 #### Boot Unix v6
 
@@ -48,7 +48,7 @@ boot rk0
 unix
 ```
 
-![](../images/install/boot.unixv6.png)
+![](/images/install/boot.unixv6.png)
 
 #### Login
 
@@ -56,7 +56,7 @@ unix
 root
 ```
 
-![](../images/install/login.png)
+![](/images/install/login.png)
 
 #### Unix v6
 
@@ -67,4 +67,4 @@ echo "Hello, World!"
 ls -al /
 ```
 
-![](../images/unixv6.png)
+![](/images/unixv6.png)

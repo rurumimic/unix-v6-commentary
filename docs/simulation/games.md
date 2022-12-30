@@ -16,8 +16,8 @@ drwxrwxr-x 15 bin       240 Oct 10 12:41 ..
 
 ## Black Jack
 
-![](../images/games/bj.png)
+![](/images/games/bj.png)
 
 ## Tic-Tac-Toe
 
-![](../images/games/ttt.png)
+![](/images/games/ttt.png)
